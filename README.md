@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soyAngela
 - 👀 I’m currently studying at the University of the Basque Country in Bilbao
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning HTML5, CSS and JS
 - 💞️ I’m looking to collaborate on personal university projects
 - 📫 How to reach me angelagonzalezgarcia@gmail.com
 
